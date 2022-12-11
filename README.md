@@ -13,5 +13,8 @@ A Streamlit app was made alongside this Github repository in order to provide a 
 ## Tableau
 A visualization of the data was created suing Tableau prior to this Github repository and the Streamlit app. The link to the Tableau Public Dashboard can be found [here](https://public.tableau.com/app/profile/kaylla.richardson/viz/DSBA5122DataProject-WorldUniversity2/Story1)
 
+##Future Work
+To improve the app, in the future I want to improve the users interactability with the app. One feature I'd like to add is allowing users to filter the Universities based on location. 
+
 ## Data Source
 The data source for the University data was "World University Rankings 2022-23" which was taken from data.world. The original dataset is derived from cwur.org. Around 19,788 institutions were ranked and this dataset is the top 2000. The dataset contains the institution, location, and various ranking scores. 
